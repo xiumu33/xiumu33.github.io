@@ -1,12 +1,22 @@
-- <strong>S. Li</strong>, X. Yang*, A. Cao*, K. Fan, Y. Liu, C. Wang, and Q.Niu (2024). Label Noise-Robust Learning for Microseismic Arrival Time Picking. <strong>In Revision.</strong> [[Code]](https://github.com/senli1073/LNRL)
+- Jieqi Xing +, Yu Shi +, Xiaoquan Su * and <strong>Shunyao Wu *</strong> (2024). Discovering Microbe-disease Associations with Weighted Graph Convolution Networks and Taxonomy Common Tree. <strong>Current Bioinformatics</strong>. [[Paper]](https://www.ingentaconnect.com/content/ben/cbio/2024/00000019/00000007/art00007) [[Code]](https://github.com/qdu-bioinfo/WTHMDA)
 
-- X. Yang, <strong>S. Li</strong>, A. Cao*, C. Wang*, Y. Liu, X. Bai, and Q. Niu (2023). Deep Transfer Learning for P-wave Arrival Identification and Automatic Seismic Source Location in Underground Mines. <strong>In Revision.</strong>
+- Xianghu Jia +, Weiwen Luo +, Jiaqi Li +, Jieqi Xing, Hongjie Sun, <strong>Shunyao Wu *</strong> and Xiaoquan Su * (2024). A deep learning framework for predicting disease-gene associations with functional modules and graph augmentation. <strong>BMC Bioinformatics</strong>. [[Paper]](https://link.springer.com/article/10.1186/s12859-024-05841-3) [[Code]](https://github.com/qdu-bioinfo/ModulePred)
 
-- <strong>S. Li</strong>, X. Yang*, A. Cao*, C. Wang, Y. Liu, Y. Liu, and Q. Niu (2024). SeisT: A Foundational Deep-Learning Model for Earthquake Monitoring Tasks. <strong>IEEE Transactions on Geoscience and Remote Sensing</strong>. [[Paper]](https://doi.org/10.1109/TGRS.2024.3371503) [[Code]](https://github.com/senli1073/SeisT)
+- <strong>Shunyao Wu</strong>, Qi Zhang, Yuanzhang Li and Hua Liang * (2024). Assessment of nonlinear dose–response relationships via nonparametric regression. <strong>Journal of Biopharmaceutical Statistics</strong>. [[Paper]](https://www.tandfonline.com/doi/abs/10.1080/10543406.2023.2183505)
 
-- A. Cao, X. Yang, C. Wang*, <strong>S. Li</strong>, Y. Liu, L. Dou, and Q. Niu (2023). High-Precision Phase Picking and Automatic Source Locating Method for Seismicity in Mines Based on Deep Transfer Learning. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2023.0095)
+- <strong>Shunyao Wu +</strong>, Zhiruo Li +, Yuzhu Chen, Mingqian Zhang, Yangyang Sun, Jieqi Xing, Fengyang Zhao, Shi Huang, Rob Knight and Xiaoquan Su * (2023). Host‐Variable‐Embedding Augmented Microbiome‐Based Simultaneous Detection of Multiple Diseases by Deep Learning. <strong>Advanced Intelligent Systems</strong>. [[Paper]](https://onlinelibrary.wiley.com/doi/abs/10.1002/aisy.202300342) [[Code]](https://github.com/qdu-bioinfo/meta-spec) 被[[Advanced Science News]](https://www.advancedsciencenews.com/personalized-ai-based-diagnostic-tests-that-will-change-the-future-of-medicine/)报道
 
-- A. Cao, Y. Liu, X. Yang*, <strong>S. Li</strong>, C. Wang, X. Bai, and Y. Liu (2022). Physical Index and Data Fusion-Driven Method for Coal Burst Prediction in Time Sequence. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2022.0680)
+- <strong>Shunyao Wu</strong>, Xinmin Li, Yu Xia and Hua Liang * (2021). A novel model-checking approach for dose-response relationships. <strong>Statistical Methods in Medical Research</strong>. [[Paper]](https://journals.sagepub.com/doi/abs/10.1177/09622802211032695)
 
-- X. Yang, X. Yu, C. Zhang, <strong>S. Li</strong>, and Q. Niu (2021). MineGPS: Battery-Free Localization Base Station for Coal Mine Environment. <strong>IEEE Communications Letters</strong>. [[Paper]](https://doi.org/10.1109/LCOMM.2021.3081593)
+- <strong>Shunyao Wu +</strong>, Yuzhu Chen +, Zhiruo Li, Jian Li, Fengyang Zhao and Xiaoquan Su * (2021). Towards multi-label classification: Next step of machine learning for microbiome research. <strong>Computational and Structural Biotechnology Journal</strong>. [[Paper]](https://www.sciencedirect.com/science/article/pii/S2001037021001665)
+
+- Qi Zhang, Tingting Tong and <strong>Shunyao Wu *</strong> (2020). Hybrid link prediction via model averaging. <strong>Physica A: Statistical Mechanics and its Applications</strong>. [[Paper]](https://www.sciencedirect.com/science/article/pii/S0378437120303897)
+
+- Mei Wu, <strong>Shunyao Wu *</strong>, Qi Zhang, Chuanyu Xue, Hongsheng Kan and Fengjing Shao (2019). Enhancing link prediction via network reconstruction. <strong>Physica A: Statistical Mechanics and its Applications</strong>. [[Paper]](https://www.sciencedirect.com/science/article/pii/S0378437119313524)
+
+- <strong>Shunyao Wu</strong>, Qi Zhang *, Chuanyu Xue and Xiyang Liao (2019). Cold-start link prediction in multi-relational networks based on network dependence analysis. <strong>Physica A: Statistical Mechanics and its Applications</strong>. [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0378437118312147)
+
+- <strong>Shunyao Wu</strong>, Qi Zhang * and Mei Wu (2017). Cold-start link prediction in multi-relational networks. <strong>Physics Letters A</strong>. [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0375960117308034)
+
+
 
