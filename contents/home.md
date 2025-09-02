@@ -3,7 +3,7 @@
 <strong>喜爱做有趣的有意义的事情，永远喜欢PTCG</strong>，曾经在<strong>2024年苏州超级赛</strong>上排名77。近期正在复健，准备前往更远的地方
 
 #### Email
-suat25060520[at]stu.suat-sz.edu.cn
+suat25060520@stu.suat-sz.edu.cn
 
 #### Education
 
