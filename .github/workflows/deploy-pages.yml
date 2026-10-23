@@ -25,6 +25,22 @@ jobs:
         uses: actions/checkout@v6
       - name: Configure GitHub Pages
         uses: actions/configure-pages@v5
+      - name: Version website assets
+        run: |
+          python - <<'PY'
+          import hashlib
+          import re
+          from pathlib import Path
+
+          root = Path("dist")
+          page = root / "index.html"
+          html = page.read_text(encoding="utf-8")
+          for name in ("styles.css", "content.js", "script.js"):
+              version = hashlib.sha256((root / name).read_bytes()).hexdigest()[:12]
+              pattern = r"\./" + re.escape(name) + r'(?:\?[^"\s]*)?(?=")'
+              html = re.sub(pattern, "./" + name + "?v=" + version, html)
+          page.write_text(html, encoding="utf-8")
+          PY
       - name: Upload homepage files
         uses: actions/upload-pages-artifact@v4
         with:
