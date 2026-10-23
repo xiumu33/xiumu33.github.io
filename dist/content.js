@@ -17,6 +17,7 @@ window.HOMEPAGE = {
     description: "Qion Qiyuan YANG, a master's student in Artificial Intelligence at the University of Macau, expected to graduate in 2028. Research interests: trustworthy LLMs, multimodal LLMs, and LLM post-training.",
     links: [
       { label: "GitHub", icon: "github", url: "https://github.com/xiumu33" },
+      { label: "Kaggle", icon: "kaggle", url: "https://www.kaggle.com/xiumu33" },
       { label: "Google Scholar", icon: "scholar", url: "" },
       { label: "LinkedIn", icon: "linkedin", url: "" },
       { label: "CV", icon: "document", url: "" },
@@ -50,6 +51,10 @@ window.HOMEPAGE = {
     },
   ],
   awards: [
+    {
+      date: "2026",
+      text: "🥈 **Silver Medal** — [The Pokémon Company - PTCG AI Battle Challenge Simulation](https://www.kaggle.com/competitions/pokemon-tcg-ai-battle/). Ranked **184th out of 6,807 teams**.",
+    },
     { date: "AY 2022", text: "**National Endeavor Scholarship**." },
   ],
   headings: {
